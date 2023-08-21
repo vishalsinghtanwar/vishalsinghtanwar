@@ -1,7 +1,7 @@
 Hi 👋 My name is Vishal Singh Tanwar
 ====================================
 
-C/C++ Programmer
+HTML, C/C++, python Programmer
 ----------------
 
 I'm a coder by passion with more than 1 year of programming experience and currently pursuing bachelor degree with computer science . I personally prefer two to work on c/c++ language . I also have my hand on python . I am currently learning FULLSTACK DEVELOPMENT
