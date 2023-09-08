@@ -24,7 +24,7 @@ I'm a coder by passion with more than 1 year of programming experience and curre
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/vishal-singh-tanwar-672758242/" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/vishal-singh-tanwar-672758242/" target="_blank" rel="noreferrer"><img src="https://www.freeiconspng.com/img/2026" width="32" height="32" /></a></p>
 
 ### Badges
 
