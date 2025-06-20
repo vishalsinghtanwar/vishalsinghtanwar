@@ -1,10 +1,10 @@
 Hi 👋 My name is Vishal Singh Tanwar
 ====================================
 
-HTML, C/C++, python Programmer
+Java Programmer | Full Stack Developer | Freelancer
 ----------------
 
-I'm a coder by passion with more than 1 year of programming experience and currently pursuing bachelor degree with computer science . I personally prefer two to work on c/c++ language . I also have my hand on python . I am currently learning FULLSTACK DEVELOPMENT
+I'm a Coder by passion with more than 5 years of programming experience and currently pursuing Bachelors degree with Computer Science. I personally prefer to work on python language. I have my hands on PHP, Django, NodeJS and ExpressJS. I also have my hands on databases like MySQL and MongoDB. I can also create good front-end using HTML, CSS, JS and web-dev frameworks like Bootstrap. I particularly adapt with different IDEs. Apart from web development I mastered Machine Learning and Deep Learning. I also practiced NLP, Computer Vision, Neural network
 
 * 🌍  I'm based in Indore, India
 * ✉️  You can contact me at [vishaltanwar404@gmail.com](mailto:vishaltanwar404@gmail.com)
